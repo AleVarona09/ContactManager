@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ContactManager.Infrastructure\ContactManager.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
